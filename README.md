@@ -20,7 +20,7 @@ The steps to generate the results for the CNN based systems are as following:
       
       b) Path where you need to dump the extracted features in a format which you be passed to the CNN framework
       
-      c) the path where you need your model to be saved, we did it in the folder named "exp" which is provided here. In the same directory (exp) it will create            the score report "score.txt" for the test.list, with the format location_of_file<space>true_label<space>softmax_posterior_distribution
+      c) the path where you need your model to be saved, we did it in the folder named "exp" which is provided here. In the same directory (exp) it will create            the score report "score.txt" for the test.list, with the format (location_of_file) \<space\> (true_label) \<space\>( softmax_distribution)
 
 4. Use step 3 to generate models for all five folds.
 
