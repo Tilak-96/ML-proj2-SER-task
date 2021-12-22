@@ -27,7 +27,7 @@ The steps to generate the results for the neural embedding based systems are as 
   
  (A) All the model training were done at the idiap's grid systems. 
  
-  (B) Idiap hold the licence to use IEMOCAP database for research purposes.
+ (B) Idiap hold the licence to use IEMOCAP database for academic/research purposes.
   
 
  
